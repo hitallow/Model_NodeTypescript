@@ -1,4 +1,2 @@
-let nome:string;
-
-nome = 'maria';
+let nome = 'maria';
 console.log(nome);
